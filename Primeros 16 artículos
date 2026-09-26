@@ -1,4 +1,5 @@
-Tratamiento,Categoria,Panel_Grafica,Dominio_Parametro,Rango_Min_Max_Porcentaje,Promedio_Porcentaje
+# Embebiendo los datos crudos en formato CSV (Tidy Data)
+datos_csv <- "Tratamiento,Categoria,Panel_Grafica,Dominio_Parametro,Rango,Promedio
 CaNa2EDTA,Quelante Sintetico,Panel_A,Plomo_Sangre,64.4,64.4
 CaNa2EDTA,Quelante Sintetico,Panel_A,Plomo_Cerebro,14.3,14.3
 DMSA_Succimero,Quelante Sintetico,Panel_A,Plomo_Sangre,69.2,69.2
@@ -11,28 +12,28 @@ Chitosan_DOTAGA,Polimero,Panel_A,Plomo_Sangre,15.3,15.3
 Curcumina,Fitoquelante,Panel_A,Plomo_Cerebro,40.1-50.0,45.0
 Adansonia_digitata,Extracto Botanico,Panel_A,Plomo_Cerebro,65.2-69.5,67.3
 Curcumina,Fitoquelante,Panel_B,Reduccion_MDA,-47.9 a -34.0,-40.9
-Curcumina,Fitoquelante,Panel_B,Aumento_Defensas_SOD_CAT,46.0-55.0,50.5
+Curcumina,Fitoquelante,Panel_B,Aumento_Defensas,46.0-55.0,50.5
 Adansonia_digitata,Extracto Botanico,Panel_B,Reduccion_MDA,-65.0 a -46.7,-55.8
-Adansonia_digitata,Extracto Botanico,Panel_B,Aumento_Defensas_SOD_CAT,75.0,75.0
+Adansonia_digitata,Extracto Botanico,Panel_B,Aumento_Defensas,75.0,75.0
 Alfa_Tocoferol,Antioxidante,Panel_B,Reduccion_MDA,-43.6 a -13.0,-28.3
-Alfa_Tocoferol,Antioxidante,Panel_B,Aumento_Enzimas_Mitocondriales,7.1-55.2,31.1
+Alfa_Tocoferol,Antioxidante,Panel_B,Aumento_Defensas,7.1-55.2,31.1
 Manzana_APE,Extracto Fenolico,Panel_B,Reduccion_MDA,-42.5,-42.5
-Manzana_APE,Extracto Fenolico,Panel_B,Aumento_Defensas_SOD_CAT,54.6-59.2,56.9
+Manzana_APE,Extracto Fenolico,Panel_B,Aumento_Defensas,54.6-59.2,56.9
 DMSA_Succimero,Quelante Sintetico,Panel_B,Reduccion_MDA,-24.8,-24.8
 Resveratrol,Fitoquelante,Panel_C,Memoria_Latencia,55.0-60.0,57.5
 Quercetina,Fitoquelante,Panel_C,Memoria_Latencia,55.0-60.0,57.5
 Adansonia_digitata,Extracto Botanico,Panel_C,Memoria_Latencia,54.8,54.8
 Adansonia_digitata,Extracto Botanico,Panel_C,Locomocion,168.0-299.0,233.5
-Ginkgo_biloba,Extracto Estandarizado,Panel_C,Memoria_Latencia,29.0,29.0
-Ginkgo_biloba,Extracto Estandarizado,Panel_C,Ansiedad,44.4,44.4
+Ginkgo_biloba,Extracto Botanico,Panel_C,Memoria_Latencia,29.0,29.0
+Ginkgo_biloba,Extracto Botanico,Panel_C,Ansiedad,44.4,44.4
 Manzana_APE,Extracto Fenolico,Panel_C,Memoria_Latencia,19.8,19.8
 Manzana_APE,Extracto Fenolico,Panel_C,Depresion,16.5,16.5
 Curcumina,Fitoquelante,Panel_C,Ansiedad,18.6-26.8,22.7
-Curcumina,Fitoquelante,Panel_C,Locomocion_Fuerza,100.0,100.0
+Curcumina,Fitoquelante,Panel_C,Locomocion,100.0,100.0
 DMSA_Succimero,Quelante Sintetico,Panel_C,Memoria_Latencia,55.0-60.0,57.5
-Ginkgo_biloba,Extracto Estandarizado,Panel_D,Supervivencia_Neuronal_CA3,430.0,430.0
-Ginkgo_biloba,Extracto Estandarizado,Panel_D,Reduccion_Inflamacion_TNFa,-154.0 a -73.3,-113.6
-DMSA_Succimero,Quelante Sintetico,Panel_D,Supervivencia_Neuronal_CA3,50.0,50.0
-Quercetina,Fitoquelante,Panel_D,Supervivencia_Neuronal_CA3,32.0,32.0
-Manzana_APE,Extracto Fenolico,Panel_D,Supervivencia_Neuronal_CA3,22.9-25.0,24.0
-Manzana_APE,Extracto Fenolico,Panel_D,Reduccion_Apoptosis_Caspasa9,-63.3,-63.3
+Ginkgo_biloba,Extracto Botanico,Panel_D,Supervivencia_Neuronal,430.0,430.0
+Ginkgo_biloba,Extracto Botanico,Panel_D,Reduccion_Inflamacion,-154.0 a -73.3,-113.6
+DMSA_Succimero,Quelante Sintetico,Panel_D,Supervivencia_Neuronal,50.0,50.0
+Quercetina,Fitoquelante,Panel_D,Supervivencia_Neuronal,32.0,32.0
+Manzana_APE,Extracto Fenolico,Panel_D,Supervivencia_Neuronal,22.9-25.0,24.0
+Manzana_APE,Extracto Fenolico,Panel_D,Reduccion_Inflamacion,-63.3,-63.3"
