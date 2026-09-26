@@ -1,5 +1,4 @@
-# Embebiendo los datos crudos en formato CSV (Tidy Data)
-datos_csv <- "Tratamiento,Categoria,Panel_Grafica,Dominio_Parametro,Rango,Promedio
+Tratamiento,Categoria,Panel_Grafica,Dominio_Parametro,Rango,Promedio
 CaNa2EDTA,Quelante Sintetico,Panel_A,Plomo_Sangre,64.4,64.4
 CaNa2EDTA,Quelante Sintetico,Panel_A,Plomo_Cerebro,14.3,14.3
 DMSA_Succimero,Quelante Sintetico,Panel_A,Plomo_Sangre,69.2,69.2
