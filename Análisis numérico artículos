@@ -36,3 +36,38 @@ DMSA_Succimero,Quelante Sintetico,Panel_D,Supervivencia_Neuronal,50.0,50.0
 Quercetina,Fitoquelante,Panel_D,Supervivencia_Neuronal,32.0,32.0
 Manzana_APE,Extracto Fenolico,Panel_D,Supervivencia_Neuronal,22.9-25.0,24.0
 Manzana_APE,Extracto Fenolico,Panel_D,Reduccion_Inflamacion,-63.3,-63.3"
+MiADMSA_ALA,Terapia Combinada,Panel_A,Plomo_Cerebro,62.0,62.0
+MiADMSA_ALA,Terapia Combinada,Panel_B,Aumento_Defensas,88.0,88.0
+CaNa2EDTA_Zinc,Terapia Combinada,Panel_A,Plomo_Sangre,78.0,78.0
+CaNa2EDTA_Zinc,Terapia Combinada,Panel_A,Plomo_Cerebro,41.5,41.5
+Vernonia_amygdalina,Extracto Botanico,Panel_B,Aumento_Defensas,103.4-109.6,106.5
+NAC,Antioxidante,Panel_A,Plomo_Sangre,10.4,10.4
+NAC,Antioxidante,Panel_A,Plomo_Cerebro,70.3,70.3
+NAC,Antioxidante,Panel_B,Reduccion_MDA,-26.6,-26.6
+NAC,Antioxidante,Panel_B,Aumento_Defensas,22.4,22.4
+NACA,Antioxidante,Panel_A,Plomo_Sangre,22.9,22.9
+NACA,Antioxidante,Panel_A,Plomo_Cerebro,72.4,72.4
+NACA,Antioxidante,Panel_B,Reduccion_MDA,-35.6,-35.6
+NACA,Antioxidante,Panel_B,Aumento_Defensas,39.4,39.4
+Romero_Rofficinalis,Fitoquelante,Panel_A,Plomo_Cerebro,68.0-71.0,69.5
+Romero_Rofficinalis,Fitoquelante,Panel_B,Reduccion_MDA,-70.0,-70.0
+Romero_Rofficinalis,Fitoquelante,Panel_B,Aumento_Defensas,41.0-154.0,97.5
+Romero_Rofficinalis,Fitoquelante,Panel_C,Memoria_Latencia,71.0-83.0,77.0
+Romero_Rofficinalis,Fitoquelante,Panel_D,Reduccion_Apoptosis,-50.0,-50.0
+Moringa_oleifera,Extracto Botanico,Panel_A,Plomo_Cerebro,51.3,51.3
+Moringa_oleifera,Extracto Botanico,Panel_B,Reduccion_MDA,-41.8 a -48.0,-44.9
+Moringa_oleifera,Extracto Botanico,Panel_B,Aumento_Defensas,63.4-72.1,67.8
+Moringa_oleifera,Extracto Botanico,Panel_D,Supervivencia_Neuronal,70.0-75.0,72.5
+Moringa_oleifera,Extracto Botanico,Panel_D,Reduccion_Inflamacion,-44.3 a -58.0,-50.0
+Quercetina_IP,Fitoquelante,Panel_B,Reduccion_MDA,-30.4 a -47.8,-36.4
+Quercetina_IP,Fitoquelante,Panel_B,Aumento_Defensas,34.6,34.6
+Quercetina_IP,Fitoquelante,Panel_C,Locomocion,73.7-73.9,73.8
+Quercetina_IP,Fitoquelante,Panel_D,Reduccion_Apoptosis,-46.8 a -81.0,-62.6
+Acido_Isoclorogenico_A,Extracto Fenolico,Panel_B,Reduccion_MDA,-39.0 a -23.7,-31.4
+Acido_Isoclorogenico_A,Extracto Fenolico,Panel_B,Aumento_Defensas,23.7-112.8,52.7
+Acido_Isoclorogenico_A,Extracto Fenolico,Panel_C,Ansiedad,19.3-45.8,31.0
+Acido_Isoclorogenico_A,Extracto Fenolico,Panel_D,Reduccion_Inflamacion,-66.6 a -31.2,-50.7
+Naringina,Fitoquelante,Panel_B,Reduccion_MDA,-52.4,-52.4
+Naringina,Fitoquelante,Panel_B,Aumento_Defensas,71.3-94.2,82.7
+Naringina,Fitoquelante,Panel_C,Ansiedad,142.8,142.8
+Naringina,Fitoquelante,Panel_D,Supervivencia_Neuronal,65.8,65.8
