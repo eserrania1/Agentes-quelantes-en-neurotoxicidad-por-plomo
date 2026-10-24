@@ -71,3 +71,17 @@ Naringina,Fitoquelante,Panel_B,Reduccion_MDA,-52.4,-52.4
 Naringina,Fitoquelante,Panel_B,Aumento_Defensas,71.3-94.2,82.7
 Naringina,Fitoquelante,Panel_C,Ansiedad,142.8,142.8
 Naringina,Fitoquelante,Panel_D,Supervivencia_Neuronal,65.8,65.8
+Cyperus_esculentus,Extracto Botanico,Panel_B,Reduccion_MDA,-38.9 a -13.2,-26.1
+Cyperus_esculentus,Extracto Botanico,Panel_B,Aumento_Defensas,8.2-65.4,36.7
+Cyperus_esculentus,Extracto Botanico,Panel_C,Locomocion,126.9-181.7,154.3
+Cyperus_esculentus,Extracto Botanico,Panel_C,Ansiedad,60.9-95.4,78.2
+Cyperus_esculentus,Extracto Botanico,Panel_C,Memoria_Latencia,34.2-163.2,98.7
+Cyperus_esculentus,Extracto Botanico,Panel_D,Reduccion_Inflamacion,-32.2 a -3.6,-19.1
+Vitamina_C,Antioxidante,Panel_B,Reduccion_MDA,-55.1,-55.1
+Vitamina_C,Antioxidante,Panel_B,Aumento_Defensas,43.2-145.7,94.5
+Vitamina_C,Antioxidante,Panel_D,Reduccion_Inflamacion,-21.9 a -9.9,-15.9
+Te_Verde,Fitoquelante,Panel_A,Plomo_Sangre,10.9,10.9
+Te_Verde,Fitoquelante,Panel_A,Plomo_Cerebro,12.5,12.5
+Te_Verde,Fitoquelante,Panel_C,Ansiedad,115.0,115.0
+Te_Verde,Fitoquelante,Panel_C,Locomocion,33.0,33.0
+Te_Verde,Fitoquelante,Panel_C,Memoria_Latencia,23.7,23.7
