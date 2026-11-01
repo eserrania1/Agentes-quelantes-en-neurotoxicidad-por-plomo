@@ -85,3 +85,9 @@ Te_Verde,Fitoquelante,Panel_A,Plomo_Cerebro,12.5,12.5
 Te_Verde,Fitoquelante,Panel_C,Ansiedad,115.0,115.0
 Te_Verde,Fitoquelante,Panel_C,Locomocion,33.0,33.0
 Te_Verde,Fitoquelante,Panel_C,Memoria_Latencia,23.7,23.7
+Acido_Isoclorogenico_B,Extracto Fenolico,Panel_B,Reduccion_MDA,-38.4,-38.4
+Acido_Isoclorogenico_B,Extracto Fenolico,Panel_B,Aumento_Defensas,48.2-56.1,52.2
+Acido_Isoclorogenico_B,Extracto Fenolico,Panel_C,Ansiedad_Depresion,32.6-39.9,36.3
+Acido_Isoclorogenico_B,Extracto Fenolico,Panel_D,Reduccion_Inflamacion,-42.5 a -35.8,-39.2
+Naringenina,Fitoquelante,Panel_B,Reduccion_MDA,-45.2,-45.2
+Naringenina,Fitoquelante,Panel_D,Reduccion_Apoptosis,NA,NA
